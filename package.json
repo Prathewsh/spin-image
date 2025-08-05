@@ -1,0 +1,27 @@
+{
+  "name": "spin-image",
+  "version": "1.0.0",
+  "description": "A tiny JavaScript utility to make images spin",
+  "main": "index.js",
+  "type": "module",
+  "keywords": [
+    "spin",
+    "image",
+    "animation",
+    "rotate",
+    "javascript"
+  ],
+  "author": "Prathewsh S Babu",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Prathewsh/spin-image.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Prathewsh/spin-image/issues"
+  },
+  "homepage": "https://github.com/Prathewsh/spin-image#readme",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  }
+}
